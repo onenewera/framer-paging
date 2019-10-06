@@ -1,0 +1,19 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@framer/framer.device-skin-google-pixel-3xl-justblack": "^1.0.0",
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "4367e03d-ea72-4bb7-9082-09dcad28a894"
+	},
+	"author": "Donny Wilson",
+	"dependencies": {
+		"@framer/gavin-owens.lottie-animations": "^1.2.0"
+	}
+}
